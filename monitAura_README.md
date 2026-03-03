@@ -5,12 +5,14 @@ Thank you for using monitAura!  This page contains some useful information about
 
 
 **Tips**
+
 - set the master app to open automatically at user login for the best user experience.  The app footprint is tiny, so it won't interfere with memory or CPU consumption
 - set your sync reminder schedule
 - enable the user notifications feature for the best experience for sync reminders.
 
 
 **Widget types**
+
 There are 3 widget types available:
 - Small Widget
 - Medium Widget
@@ -20,6 +22,7 @@ Each widget shows different information based on the widget size available.  You
 
 
 **Widget Background Colours**
+
 The widgets will give a visual status based on how fresh the data from the Oura API is:
 - Green background = everything running correctly and a recent data sync has occurred
 - Orange background = an Oura sync has been missed based on the schedule configured in settings.  The orange background will commence once more than 30 minutes have passed without a sync since the user notification was shown.
